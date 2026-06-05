@@ -123,8 +123,6 @@ def visualize_data():
 
     plt.show()
 
-    print("График сохранен как 'weather_plot.png' в корне проекта.")
-
 
 if __name__ == "__main__":
 
